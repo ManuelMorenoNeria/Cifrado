@@ -1,6 +1,6 @@
 # Cifrados a lo largo de la historia
 ## Descripción
-A continuación le vamos a hablar sobre algunos de los cifrados usados a lo largo de la historia
+Al hablar de cifrado de mensajes debemos remontarnos a unos 4000 años atrás. Aunque se suele asociar a conceptos militares, el primer ejemplo que podriamos tomar como cifrado serían los jeroglificos egipicios. A continuación le vamos a hablar sobre algunos de los cifrados usados a lo largo de la historia
 
 
 ## Contenidos
