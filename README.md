@@ -8,6 +8,7 @@ Al hablar de cifrado de mensajes debemos remontarnos a unos 4000 años atrás. A
 - [Escítala](Contenidos/escitala.md)
 
 ## Referencias
-
+- [Wikipedia](https://es.wikipedia.org)
 
 ## Licencia
+![image](Contenidos/licencia.PNG)
