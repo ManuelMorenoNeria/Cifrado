@@ -3,3 +3,6 @@ Este consiste en jugar con la conbinacion de x letras o numeros para hacer refer
 
 
 ![image](polybios.png)
+
+
+Aqui por ejemplo "Hola" sería 23 34 31 11
