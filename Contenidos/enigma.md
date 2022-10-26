@@ -5,4 +5,4 @@ cuando el matemático Alan Turing se unió al departamento de criptografía fue 
 los códigos generados por Enigma. Su invento se convirtió en la primera computadora del mundo
 
 
-![image](enigma.png)
+![image](enigma.jpg)
